@@ -1,4 +1,4 @@
-# 26. Remove Duplicates from Sorted Array
+# 26. Remove Duplicates from Sorted Array - The goal is to remove duplicates from the list nums and return how many unique elements remain, which is the length of new nums.
 
 from typing import List
 
